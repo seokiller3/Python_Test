@@ -3,15 +3,15 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-Console.Clear
+Console.Clear();
 
-Console.Write("Write number: ");
+Console.Write("Введите число: ");
 
 int n = int.Parse(Console.ReadLine());
 
 int i = 1;
 
-while (i <= n);
+while (i <= n)
 {
     if (i % 2 == 0)
 {
@@ -21,4 +21,3 @@ while (i <= n);
 i++;
 
 } 
-
