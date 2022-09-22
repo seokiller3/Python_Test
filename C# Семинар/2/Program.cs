@@ -14,12 +14,12 @@ Console.Write("Введите число:");
 
 int sqrt = int.Parse(Console.ReadLine());
 
-if (Math.Pow(number,2) == sqrt)
+if (Math.Pow(number, 2) == sqrt)
 {
-    Console.WriteLine($"Квадрат числа {number} равен {Math.Pow(number,2)}");
+    Console.WriteLine($"Квадрат числа {number} равен {Math.Pow(number, 2)}");
 }
 
 else
 {
-    Console.WriteLine($"Квадрат числа {number} равен {Math.Pow(number,2)}");
+    Console.WriteLine($"Квадрат числа {number} равен {Math.Pow(number, 2)}");
 }

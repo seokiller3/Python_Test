@@ -14,7 +14,7 @@ Console.Write("Введите второе число:");
 
 int number_2 = int.Parse(Console.ReadLine());
 
-if (number_1>number_2)
+if (number_1 > number_2)
 {
     Console.WriteLine($"Наибольшее число = {number_1}");
 }
