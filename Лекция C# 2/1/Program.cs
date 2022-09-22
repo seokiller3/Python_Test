@@ -11,8 +11,8 @@ int RandomNum = new Random().Next(10, 100); //74
 
 Console.WriteLine($"Число: {RandomNum}");
 
-int a1 = RandomNum/10; //7
-int a2 = RandomNum%10; //4
+int a1 = RandomNum / 10; //7
+int a2 = RandomNum % 10; //4
 
 int max = a1;
 
