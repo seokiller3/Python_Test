@@ -1,0 +1,15 @@
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.csproj.AssemblyReference.cache
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.AssemblyInfoInputs.cache
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.AssemblyInfo.cs
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.csproj.CoreCompileInputs.cache
+D:\Учеба\Лекция C# 2\Домашка2\bin\Debug\net6.0\Домашка2.exe
+D:\Учеба\Лекция C# 2\Домашка2\bin\Debug\net6.0\Домашка2.deps.json
+D:\Учеба\Лекция C# 2\Домашка2\bin\Debug\net6.0\Домашка2.runtimeconfig.json
+D:\Учеба\Лекция C# 2\Домашка2\bin\Debug\net6.0\Домашка2.dll
+D:\Учеба\Лекция C# 2\Домашка2\bin\Debug\net6.0\Домашка2.pdb
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.dll
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\refint\Домашка2.dll
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.pdb
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\Домашка2.genruntimeconfig.cache
+D:\Учеба\Лекция C# 2\Домашка2\obj\Debug\net6.0\ref\Домашка2.dll
