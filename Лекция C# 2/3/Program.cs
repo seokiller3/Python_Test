@@ -4,14 +4,16 @@
 
 Console.Clear();
 
-string a = (Console.ReadLine());
-string b = (Console.ReadLine());
+int a = (int.Parse(Console.ReadLine()));
+int b = (int.Parse(Console.ReadLine()));
 
-if(int.Parse(a) % int.Parse(b) == 0)
+int c = a % b;
+
+if(c == 0)
 {
     Console.WriteLine("Кратно");
 }
 else
 {
-    Console.WriteLine($"Не кратно, остаток = {int.Parse(a) % int.Parse(b)}");
+    Console.WriteLine($"Не кратно, остаток = {c}");
 }
