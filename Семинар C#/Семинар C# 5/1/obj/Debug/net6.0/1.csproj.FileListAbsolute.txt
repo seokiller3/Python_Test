@@ -1,0 +1,5 @@
+D:\Учеба\Семинар C#\Семинар C# 5\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\Учеба\Семинар C#\Семинар C# 5\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Семинар C#\Семинар C# 5\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\Учеба\Семинар C#\Семинар C# 5\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\Учеба\Семинар C#\Семинар C# 5\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
