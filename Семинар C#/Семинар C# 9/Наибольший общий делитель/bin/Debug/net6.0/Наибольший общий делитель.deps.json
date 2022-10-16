@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Наибольший общий делитель/1.0.0": {
+        "runtime": {
+          "Наибольший общий делитель.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Наибольший общий делитель/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
