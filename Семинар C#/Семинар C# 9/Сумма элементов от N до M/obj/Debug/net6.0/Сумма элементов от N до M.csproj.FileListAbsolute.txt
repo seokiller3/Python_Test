@@ -1,0 +1,15 @@
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\bin\Debug\net6.0\Сумма элементов от N до M.exe
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\bin\Debug\net6.0\Сумма элементов от N до M.deps.json
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\bin\Debug\net6.0\Сумма элементов от N до M.runtimeconfig.json
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\bin\Debug\net6.0\Сумма элементов от N до M.dll
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\bin\Debug\net6.0\Сумма элементов от N до M.pdb
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.csproj.AssemblyReference.cache
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.AssemblyInfoInputs.cache
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.AssemblyInfo.cs
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.csproj.CoreCompileInputs.cache
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.dll
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\refint\Сумма элементов от N до M.dll
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.pdb
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\Сумма элементов от N до M.genruntimeconfig.cache
+D:\Учеба\Семинар C#\Семинар C# 9\Сумма элементов от N до M\obj\Debug\net6.0\ref\Сумма элементов от N до M.dll
