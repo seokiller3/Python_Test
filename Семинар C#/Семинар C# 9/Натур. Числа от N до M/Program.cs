@@ -7,18 +7,18 @@ int M = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число N:");
 int N = Convert.ToInt32(Console.ReadLine());
 
-int result = 0;
+outputRec(M, N);
 
-outputRec(result);
-
-void outputRec(int i)
+void outputRec(int from, int to)
 {
-    i--;
-    if (i >= 0)
-    if (result%2==0)
+    if (from % 2 == 0)
     {
-        outputRec(i);
-        Console.Write(" " + (i + 1));
+        Console.Write(from + " ");
+    }
+    if (from < to)
+    {
+        from++;
+        outputRec(from, to);
     }
 }
 
