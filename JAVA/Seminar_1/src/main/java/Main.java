@@ -91,14 +91,14 @@ public class Main {
         System.out.println(n);
 
         int cnt1 = 0;
-        for (int j = i+1; j < Short.MAX_VALUE; j++) {
+        for (int j = i + 1; j < Short.MAX_VALUE; j++) {
             if (j % n == 0) {
                 cnt1++;
             }
         }
         int[] m1 = new int[cnt1];
         int index1 = 0;
-        for (int j = i+1; j < Short.MAX_VALUE; j++) {
+        for (int j = i + 1; j < Short.MAX_VALUE; j++) {
             if (j % n == 0) {
                 m1[index1++] = j;
             }
@@ -106,14 +106,14 @@ public class Main {
         System.out.println(Arrays.toString(m1));
 
         int cnt2 = 0;
-        for (int j = i-1; j > Short.MIN_VALUE; j--) {
+        for (int j = i - 1; j > Short.MIN_VALUE; j--) {
             if (j % n != 0) {
                 cnt2++;
             }
         }
         int[] m2 = new int[cnt2];
         int index2 = 0;
-        for (int j = i-1; j > Short.MIN_VALUE; j--) {
+        for (int j = i - 1; j > Short.MIN_VALUE; j--) {
             if (j % n != 0) {
                 m2[index2++] = j;
             }
