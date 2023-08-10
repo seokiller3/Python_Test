@@ -1,0 +1,8 @@
+from collection_converter_file.dir_recursion import calculate_directory_size, traverse_and_save
+from collection_converter_file.task_1 import convert_txt_to_json
+from collection_converter_file.task_2 import fun_dump_json
+from collection_converter_file.task_3 import json_to_csv
+from collection_converter_file.task_4 import reader_csv
+from collection_converter_file.task_5 import json_to_pickle
+from collection_converter_file.task_6 import pickle_to_csv
+from collection_converter_file.task_7 import csv_print_to_pickle
